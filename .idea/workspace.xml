@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b38a1d2-b5c3-401a-958d-82c880f3d18c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oETNhJNVoBfHiOjfnEyXK2LyXt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b38a1d2-b5c3-401a-958d-82c880f3d18c" name="Default Changelist" comment="" />
+      <created>1612850711615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612850711615</updated>
+      <workItem from="1612850712921" duration="21622000" />
+      <workItem from="1612948970748" duration="217000" />
+      <workItem from="1613377021111" duration="16780000" />
+      <workItem from="1613523894099" duration="2214000" />
+      <workItem from="1613558316829" duration="11717000" />
+      <workItem from="1613700187264" duration="5113000" />
+      <workItem from="1613796730026" duration="3326000" />
+      <workItem from="1613955347387" duration="4837000" />
+      <workItem from="1614041772357" duration="1640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2353" y="474" key="SettingsEditor" timestamp="1613700216973">
+      <screen x="-3360" y="-291" width="3360" height="1865" />
+    </state>
+    <state x="-2353" y="474" key="SettingsEditor/-3360.-291.3360.1865/0.25.1920.1117@-3360.-291.3360.1865" timestamp="1613700216973" />
+    <state x="-2329" y="471" key="com.intellij.ide.util.TipDialog" timestamp="1614041772791">
+      <screen x="-3360" y="-291" width="3360" height="1865" />
+    </state>
+    <state x="-2329" y="471" key="com.intellij.ide.util.TipDialog/-3360.-291.3360.1865/0.25.1920.1117@-3360.-291.3360.1865" timestamp="1614041772791" />
+    <state x="589" y="481" key="com.intellij.ide.util.TipDialog/-3360.-291.3360.1865/0.25.1920.1117@0.25.1920.1117" timestamp="1613955349577" />
+    <state x="589" y="481" key="com.intellij.ide.util.TipDialog/0.25.1920.1117@0.25.1920.1117" timestamp="1613796743232" />
+    <state x="-1934" y="582" key="ftp.server.browser" timestamp="1612850850609">
+      <screen x="-3360" y="-291" width="3360" height="1865" />
+    </state>
+    <state x="-1934" y="582" key="ftp.server.browser/-3360.-291.3360.1865/0.25.1920.1117@-3360.-291.3360.1865" timestamp="1612850850609" />
+    <state x="-2583" y="508" width="670" height="676" key="search.everywhere.popup" timestamp="1613640060495">
+      <screen x="-3360" y="-291" width="3360" height="1865" />
+    </state>
+    <state x="-2583" y="508" width="670" height="676" key="search.everywhere.popup/-3360.-291.3360.1865/0.25.1920.1117@-3360.-291.3360.1865" timestamp="1613640060495" />
+  </component>
+</project>
